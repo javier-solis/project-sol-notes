@@ -1,1 +1,2 @@
-These notes compile to a static website, using MkDocs and Material for MkDocs. To view this site online visit [javier-solis,me/project-sol](https://javier-solis.me/projectsol.net). Alternatively, you can view this site locally by installing this repo, MkDocs and Material for MkDocs, and running (white in the main directory) `mkdocs serve`. 
+This repository can be used to generate a static website with my notes, using MkDocs and Material for MkDocs.
+A viewable copy online is coming soon. For now, however, you can view this site locally by downloading this repository, pip installing MkDocs and Material for MkDocs, and running (white in the main directory) `mkdocs serve`. 
