@@ -1,0 +1,1 @@
+These notes compile to a static website, using MkDocs and Material for MkDocs. To view this site online visit [javier-solis,me/project-sol](https://javier-solis.me/projectsol.net). Alternatively, you can view this site locally by installing this repo, MkDocs and Material for MkDocs, and running (white in the main directory) `mkdocs serve`. 
