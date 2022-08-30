@@ -1,2 +1,3 @@
-This repository can be used to generate a static website with my notes, using MkDocs and Material for MkDocs.
-A viewable copy online is coming soon. For now, however, you can view this site locally by downloading this repository, pip installing MkDocs and Material for MkDocs, and running (white in the main directory) `mkdocs serve`. 
+![Project Logo](/docs/logos/logo_with_text_deeporange.svg)
+
+This repository can be used to generate a static website of my software notes. This generation is made using MkDocs and Material for MkDocs. A viewable copy online is coming soon, but, for now, you can view this site locally by downloading this repository, pip installing MkDocs and Material for MkDocs, and running (while in the main directory) `mkdocs serve`.

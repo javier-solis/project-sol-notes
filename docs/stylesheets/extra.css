@@ -3,12 +3,16 @@
     max-width: none;
   }
   .md-sidebar--primary {
-    left: 2%;
+    left: 1%;
   }
   .md-sidebar--secondary {
-    right: 2%;
+    right: 1%;
     margin-left: 0;
     -webkit-transform: none;
     transform: none;   
   }
+}
+
+.md-footer {
+  display: none;
 }
