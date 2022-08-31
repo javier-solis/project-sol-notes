@@ -6,7 +6,9 @@ Install TLP to optimize your battery consumption. Installation steps can be foun
 
 ## Terminal
 
-To enhance your terminal experience, consider checking out [tmux](https://github.com/tmux/tmux). It's a "terminal multiplexer", allowing you to have multiple terminal panes open on a single screen.
+For the use of multiple terminal sessions in 1 window, consider checking out [tmux](https://github.com/tmux/tmux). It's a "terminal multiplexer", allowing you to have multiple terminal panes open on a single screen.
+
+To colorize your man page, install `most` and add this line to your `.bashrc`: `export MANPAGER="/usr/bin/most -s"`
 
 ## GRUB
 
@@ -42,4 +44,3 @@ using up space. To remove this bar, follow these steps:
 ## Mouse
 
 Install [key-maper](https://github.com/sezanzeb/key-mapper) to map the side buttons of your mouse (if there are any).
-
