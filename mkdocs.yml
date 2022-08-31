@@ -46,3 +46,5 @@ repo_url: https://github.com/javier-solis/notes
 
 extra_css:
   - stylesheets/extra.css
+
+use_directory_urls: false
