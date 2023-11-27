@@ -4,8 +4,12 @@ This repository holds the Markdown files that are used to generate the webpages 
 currently hosted at [notes.projectsol.net](https://notes.projectsol.net).
 
 As of November 2023, the webpages are generated using [MkDocs](https://www.mkdocs.org/) and
-[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/). To render this site locally,
-run `mkdocs serve` under the `/docs` folder (after the dependencies are installed).
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+
+To render this site locally:
+1. Ensure dependencies are installed
+2. Run `mkdocs build`
+3. Run `mkdocs serve`
 
 ## Dependencies
 1. Install [`pip`](https://pip.pypa.io/en/stable/#)
@@ -13,5 +17,3 @@ run `mkdocs serve` under the `/docs` folder (after the dependencies are installe
 
 
 
-TODO: specifiy dependency versions
-TODO: other reqs? like fonts
